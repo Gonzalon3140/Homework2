@@ -1,0 +1,33 @@
+body {
+    background: url("../images/gravel.png");
+}
+
+/* this is for the about screen */
+
+.about {
+    margin-top: 20px;
+    padding: 40px;
+    margin-left: 25px;
+}
+
+.img-thumbnail {
+    max-width: 22%;
+}
+
+.paragraph {}
+
+#p1 {
+    /* float: right; */
+    /* margin-right: 20px; */
+    /* margin-left: 0; */
+    width: auto;
+    padding: 10px;
+    float: left;
+}
+
+#p2 {
+    /* float: right; */
+    width: auto;
+    padding: 10px;
+    float: left;
+}
