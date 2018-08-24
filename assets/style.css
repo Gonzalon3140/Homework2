@@ -1,33 +1,37 @@
 body {
-    background: url("../images/gravel.png");
+    background: url("../images/concrete_seamless.png");
 }
 
 /* this is for the about screen */
 
-.about {
-    margin-top: 20px;
-    padding: 40px;
-    margin-left: 25px;
+#tag {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#navname {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
 }
 
 .img-thumbnail {
-    max-width: 22%;
+    max-width: 200px;
+    max-height: 250px;
+    margin-left: 60px;
+    margin-right: 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
-.paragraph {}
-
-#p1 {
-    /* float: right; */
-    /* margin-right: 20px; */
-    /* margin-left: 0; */
-    width: auto;
-    padding: 10px;
-    float: left;
+.float-right-one {
+    background-color: #4aaaa5;
+    margin-left: 300px;
+    padding: 20px;
 }
 
-#p2 {
-    /* float: right; */
-    width: auto;
-    padding: 10px;
-    float: left;
+.float-right-two {
+    background-color: #4aaaa5;
+    margin-left: 300px;
+    padding: 20px;
 }
