@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777;
-    background: url("/images/concrete_seamless.png");
+    background: url("../images/concrete_seamless/concrete_seamless/concrete_seamless.png");
 }
 
 /* this is the nav command */
@@ -14,7 +14,7 @@ body {
 }
 
 #main-container {
-    padding-top: 130px;
+    padding-top: 90px;
     min-height: calc(100vh - 70px);
 }
 
